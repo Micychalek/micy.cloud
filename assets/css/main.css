@@ -44,7 +44,7 @@
 {
 	position: absolute;
 	transform: translate(-50%, -50%);
-	top: 45%;
+	top: 30%;
 	left: 50%;
 	color: white;
 	font-size: 3rem;
@@ -90,6 +90,15 @@ footer a:hover
         padding: 6px;
     }
 };
+.card
+{
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 30%;
+	left: 50%;
+	color: white;
+	font-size: 3rem;
+}
 
 @media(max-width: 354px) { .fab { padding: 1px; } };
 @media(max-height: 700px) { .header { top: 43%; } };
